@@ -1,0 +1,369 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+
+.logo {
+    position: relative;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+
+.nav {
+    height: 50px;
+    width: 1000px;
+    position: relative;
+    margin-top: -20px;
+    margin-left: 1000px;
+    word-spacing: 50px;
+    color: white;
+}
+
+.nav a{
+    color:white;
+}
+
+.rectangle {
+    width: 50px;
+    height: 25px;
+    background: #FECB21;
+    position: relative;
+    margin-top: -50px;
+    margin-left: 1430px;
+}
+
+.head {
+    color:rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: relative;
+    padding-left: 12px;
+    padding-top: 6px;
+}
+
+.welcome {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: relative;
+    margin-left: 70px;
+    margin-top: 180px;
+}
+
+
+.easy {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: relative;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+.yellow {
+    color: #FECB21;
+    font-family: Poppins;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.para {
+    width: 500px;
+    height: 50px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    position: relative;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+.rectangle5 {
+    width: 1000px;
+    height: 200px;
+    flex-shrink: 0;
+    border-radius: 7.693px;
+    background: rgba(66, 66, 66, 0.50);
+    position: relative;
+    margin-left: 350px;
+    margin-top: 90px;
+}
+
+.book {
+    color: #FECB21;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; 
+    position: relative;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+.rectanglesmall {
+    width: 500px;
+    height: 30.221px;
+    flex-shrink: 0;
+    width: 142.312px;
+    border-radius: 2.747px;
+    background: #111;
+    position: relative;
+    margin-left: 30px;
+    margin-top: 80px;
+}
+
+.text {
+    color: #f1ba06;
+    font-family: Poppins;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: relative;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.rectanglesmall2 {
+    width: 82.42px;
+    height: 30.221px;
+    flex-shrink: 0;
+    border-radius: 2.747px;
+    background: #111;
+    position: relative;
+    margin-left: 280px;
+    margin-top: -30px;
+}
+
+.text2 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: relative;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.rectanglesmall3 {
+    width: 100.431px;
+    height: 30.221px;
+    flex-shrink: 0;
+    border-radius: 2.747px;
+    width: 142.312px;
+    background: #111;
+    position: relative;
+    margin-left: 370px;
+    margin-top: -30px;
+}
+
+.text3 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 6.594px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: relative;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.rectanglesmall4 {
+    width: 150.772px;
+    height: 30.221px;
+    flex-shrink: 0;
+    border-radius: 2.747px;
+    width: 142.312px;
+    background: #111;
+    position: relative;
+    margin-left: 530px;
+    margin-top: -30px;
+}
+
+.text4 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 6.594px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal; 
+    position: relative;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.rectanglesmall5 {
+    width: 71.431px;
+    height: 30.221px;
+    flex-shrink: 0;
+    border-radius: 2.747px;
+    background: #111;
+    position: relative;
+    margin-left: 690px;
+    margin-top: -30px;
+}
+
+.text5 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 6.594px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: relative;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.rectanglesmall6 {
+    width: 100.552px;
+    height: 30.221px;
+    flex-shrink: 0;
+    border-radius: 2.747px;
+    background: #111;
+    position: relative;
+    margin-left: 770px;
+    margin-top: -30px;
+}
+
+.rectangleyellow {
+    width: 89.563px;
+    height: 30.221px;
+    flex-shrink: 0;
+    background: #FECB21;
+    position: relative;
+    margin-left: 890px;
+    margin-top: -30px;
+}
+
+.yellow2 {
+    color: #000;
+    font-family: Poppins;
+    font-size: 13.187px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: relative;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.h1 {
+    color: #FECB21;
+    font-family: Poppins;
+    font-size: 8.791px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: relative;
+    margin-top: -50px;
+    margin-left: 30px;
+}
+
+.h2 {
+   color: #FFF;
+   font-family: Poppins;
+   font-size: 8.791px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+   position: relative;
+   margin-top: -9px;
+   margin-left: 280px;    
+}
+
+.h3 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 8.791px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: relative;
+    margin-top: -9px;
+    margin-left: 530px; 
+}
+
+
+.rectanglewhite {
+    width: 181.874px;
+    height: 323.636px;
+    flex-shrink: 0;
+    background: #FFF;
+    position: relative;
+    margin-top: 100px;
+}
+
+.image {
+    width: 78.574px;
+    height: 113.74px;
+    flex-shrink: 0;
+}
+
+.img {
+    color: #000;
+    font-family: Roboto;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position: relative;
+    margin-left: -140px;
+}
+
+.img2 {
+    width: 154.95px;
+    height: 61.54px;
+    flex-shrink: 0;
+    color: #292929;
+    font-family: Poppins;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.img3{
+    width: 154.95px;
+    height: 61.54px;
+    flex-shrink: 0;
+    color: #292929;
+    font-family: Poppins;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    position: relative;
+    margin-top: 15px;
+}
+
+
+
+
+
+
